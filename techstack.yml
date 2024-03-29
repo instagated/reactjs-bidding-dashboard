@@ -1,0 +1,314 @@
+repo_name: instagated/reactjs-bidding-dashboard
+report_id: 2e4b303f60b7e0fbcf4382f66a50c060
+version: 0.1
+repo_type: Public
+timestamp: '2024-03-29T20:23:53+00:00'
+requested_by: namrathasubramanya
+provider: github
+branch: master
+detected_tools_count: 20
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/instagated/reactjs-bidding-dashboard
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/instagated/reactjs-bidding-dashboard
+  detection_source: Repo Metadata
+- name: Bootstrap
+  description: Simple and flexible HTML, CSS, and JS for popular UI components and
+    interactions
+  website_url: http://getbootstrap.com/
+  version: 4.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
+  detection_source_url: https://github.com/instagated/reactjs-bidding-dashboard/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Namratha Subramanya
+  last_updated_on: 2018-06-29 17:24:14.000000000 Z
+- name: Chart.js
+  description: Simple, clean and engaging charts for designers and developers
+  website_url: http://www.chartjs.org/
+  version: 2.7.2
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/3866/_GD1-XrU_400x400.jpg
+  detection_source_url: https://github.com/instagated/reactjs-bidding-dashboard/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Namratha Subramanya
+  last_updated_on: 2018-07-03 23:26:26.000000000 Z
+- name: Material-UI
+  description: Material UI is a library of React UI components that implements Google's
+    Material Design.
+  website_url: https://github.com/mui/material-ui
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/1904/default_44d81cb9fadbc3688b7e91a6d5217d0ea5358b57.png
+  detection_source_url: https://github.com/instagated/reactjs-bidding-dashboard/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Namratha Subramanya
+  last_updated_on: 2018-07-03 23:26:26.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 16.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/instagated/reactjs-bidding-dashboard/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Namratha Subramanya
+  last_updated_on: 2018-07-03 23:26:26.000000000 Z
+- name: PubNub
+  description: Build real-time apps quickly and scale them globally.
+  website_url: http://www.pubnub.com/
+  open_source: false
+  hosted_saas: true
+  category: Application Hosting
+  sub_category: Realtime Backend / API
+  image_url: https://img.stackshare.io/service/349/A2EP-NOS.png
+  detection_source_url: https://github.com/instagated/reactjs-bidding-dashboard/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Namratha Subramanya
+  last_updated_on: 2018-06-29 17:24:14.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/instagated/reactjs-bidding-dashboard
+  detection_source: Repo Metadata
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/instagated/reactjs-bidding-dashboard/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Namratha Subramanya
+  last_updated_on: 2018-06-29 17:24:14.000000000 Z
+- name: i
+  description: Custom inflections for nodejs
+  package_url: https://www.npmjs.com/i
+  version: 0.3.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17326/default_66bbb2a75a0234b1bfceaa99b8e82825fa7b8284.png
+  detection_source_url: https://github.com/instagated/reactjs-bidding-dashboard/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Namratha Subramanya
+  last_updated_on: 2018-06-29 17:24:14.000000000 Z
+  vulnerabilities:
+  - name: inflect vulnerable to Inefficient Regular Expression Complexity
+    cve_id: CVE-2021-3820
+    cve_url: https://github.com/advisories/GHSA-x55w-vjjp-222r
+    detected_date: Sep 30
+    severity: high
+    first_patched: 0.3.7
+- name: npm
+  description: A package manager for JavaScript
+  package_url: https://www.npmjs.com/npm
+  version: 6.1.0
+  license: Artistic-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16105/default_5a461d436012a0c4024534aaba303dcdb0297d24.png
+  detection_source_url: https://github.com/instagated/reactjs-bidding-dashboard/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Namratha Subramanya
+  last_updated_on: 2018-06-29 17:24:14.000000000 Z
+  vulnerabilities:
+  - name: npm Vulnerable to Global node_modules Binary Overwrite
+    cve_id: CVE-2019-16777
+    cve_url: https://github.com/advisories/GHSA-4328-8hgf-7wjr
+    detected_date: Aug 22
+    severity: high
+    first_patched: 6.13.4
+  - name: Arbitrary File Write in npm
+    cve_id: CVE-2019-16775
+    cve_url: https://github.com/advisories/GHSA-m6cx-g6qm-p2cx
+    detected_date: Aug 22
+    severity: high
+    first_patched: 6.13.3
+  - name: npm symlink reference outside of node_modules
+    cve_id: CVE-2019-16776
+    cve_url: https://github.com/advisories/GHSA-x8qc-rrcw-4r46
+    detected_date: Aug 22
+    severity: high
+    first_patched: 6.13.3
+  - name: npm CLI exposing sensitive information through logs
+    cve_id: CVE-2020-15095
+    cve_url: https://github.com/advisories/GHSA-93f3-23rq-pjfp
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 6.14.6
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 16.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/instagated/reactjs-bidding-dashboard/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Namratha Subramanya
+  last_updated_on: 2018-07-03 23:26:26.000000000 Z
+  vulnerabilities:
+  - name: Cross-Site Scripting in react-dom
+    cve_id: CVE-2018-6341
+    cve_url: https://github.com/advisories/GHSA-mvjj-gqq2-p4hw
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 16.4.2
+- name: "@fortawesome/fontawesome-svg-core"
+  description: The iconic font, CSS, and SVG framework
+  package_url: https://www.npmjs.com/@fortawesome/fontawesome-svg-core
+  version: 1.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16644/default_50c9ed1615a25628505ab53def64d82450ced26b.png
+  detection_source_url: https://github.com/instagated/reactjs-bidding-dashboard/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Namratha Subramanya
+  last_updated_on: 2018-07-03 23:26:26.000000000 Z
+- name: "@fortawesome/free-solid-svg-icons"
+  description: The iconic font, CSS, and SVG framework
+  package_url: https://www.npmjs.com/@fortawesome/free-solid-svg-icons
+  version: 5.1.0
+  license: CC-BY-4.0,MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16683/default_6dad4e42e12d47cc6edfbdea036dae12f91abebb.png
+  detection_source_url: https://github.com/instagated/reactjs-bidding-dashboard/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Namratha Subramanya
+  last_updated_on: 2018-07-03 23:26:26.000000000 Z
+- name: "@fortawesome/react-fontawesome"
+  description: Official React component for Font Awesome 5
+  package_url: https://www.npmjs.com/@fortawesome/react-fontawesome
+  version: 0.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16936/default_277303773c2bdb575ee8f4bfe869f0a33d6755b2.png
+  detection_source_url: https://github.com/instagated/reactjs-bidding-dashboard/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Namratha Subramanya
+  last_updated_on: 2018-07-03 23:26:26.000000000 Z
+- name: "@material-ui/core"
+  description: React components that implement Google's Material Design
+  package_url: https://www.npmjs.com/@material-ui/core
+  version: 1.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16271/default_f04d39fc656c2e32ee1b9d3875a3002459aa3b69.png
+  detection_source_url: https://github.com/instagated/reactjs-bidding-dashboard/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Namratha Subramanya
+  last_updated_on: 2018-07-03 23:26:26.000000000 Z
+- name: prop-types
+  description: Runtime type checking for React props and similar objects
+  package_url: https://www.npmjs.com/prop-types
+  version: 15.6.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15843/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/instagated/reactjs-bidding-dashboard/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Namratha Subramanya
+  last_updated_on: 2018-06-29 17:24:14.000000000 Z
+- name: react-bootstrap
+  description: Bootstrap 3 components built with React
+  package_url: https://www.npmjs.com/react-bootstrap
+  version: 0.32.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16383/default_92302d1bbf4c0f67b862869662b4f69002c94aad.png
+  detection_source_url: https://github.com/instagated/reactjs-bidding-dashboard/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Namratha Subramanya
+  last_updated_on: 2018-07-03 23:26:26.000000000 Z
+- name: react-loadable
+  description: A higher order component for loading components with promises
+  package_url: https://www.npmjs.com/react-loadable
+  version: 5.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17269/default_9b05b1c3b13fc328bf76b8d3fea01ff4688c0c1d.png
+  detection_source_url: https://github.com/instagated/reactjs-bidding-dashboard/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Namratha Subramanya
+  last_updated_on: 2018-07-03 23:26:26.000000000 Z
+- name: react-scripts
+  description: Configuration and scripts for Create React App
+  package_url: https://www.npmjs.com/react-scripts
+  version: 1.0.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15985/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/instagated/reactjs-bidding-dashboard/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Namratha Subramanya
+  last_updated_on: 2018-07-03 23:26:26.000000000 Z
